@@ -1,0 +1,7 @@
+README.md
+main.py
+pyproject.toml
+fastdca_p1.egg-info/PKG-INFO
+fastdca_p1.egg-info/SOURCES.txt
+fastdca_p1.egg-info/dependency_links.txt
+fastdca_p1.egg-info/top_level.txt
